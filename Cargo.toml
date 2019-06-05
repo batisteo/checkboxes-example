@@ -1,0 +1,13 @@
+[package]
+name = "checkboxes-example"
+version = "0.1.0"
+authors = ["Baptiste Darthenay <baptiste.darthenay@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.0"
+serde_derive = "1.0.92"
+serde = "1.0.92"
+env_logger = "0.6.1"
+futures = "0.1.27"
+serde_urlencoded = "0.5.5"
